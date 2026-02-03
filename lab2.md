@@ -1,6 +1,6 @@
 # Lab 2: SimpleDB Operators
 
-### Due: July 13, 2025 11:59PM
+### Due: March 20, 2026 11:59PM
 
 
 In this lab assignment, you will write a set of operators for SimpleDB to implement table modifications (e.g., insert
