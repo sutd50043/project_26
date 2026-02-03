@@ -1,6 +1,6 @@
 # Lab 3: SimpleDB Transactions
 
-### Due: August 3, 2025 11:59PM
+### Due: April 3, 2026 11:59PM
 
 In this lab, you will implement a simple locking-based
 transaction system in SimpleDB.  You will need to add lock and
